@@ -6,3 +6,5 @@ Train dataset - https://drive.google.com/file/d/1zKMpi3CB9a_Co9fwzwDrQGu1TqD3FQc
 
 Test Set - https://drive.google.com/file/d/1CeRdY3cYykJZbRnYM4mT70cmMTKF_-ym/view?usp=sharing
 
+For prediction you have to copy some images after creating a predict folder in present directory
+
